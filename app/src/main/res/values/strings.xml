@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Crypto Tracker App</string>
+    <string name="no_crypto_found">No, crypto found!</string>
+    <string name="coingecko_rank">Coingecko Rank</string>
+    <string name="max_value">Max value</string>
+    <string name="min_value">Min value</string>
+    <string name="set_max_value">Set max value</string>
+    <string name="set_min_value">Set min value</string>
+    <string name="alert_history">Alert History</string>
+    <string name="channel_name">alert_channel</string>
+    <string name="channel_description">This channel for show alert when crypto change</string>
+    <string name="delete">Delete</string>
+    <string name="minimum_alert">Minimum alert:</string>
+    <string name="maximum_alert">Maximum alert:</string>
+    <string name="search_here">Search here</string>
+</resources>
