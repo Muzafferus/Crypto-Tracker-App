@@ -32,6 +32,9 @@ In this folder, you will find projects using the following set of Libraries.
 - DB connection: Flow
 - UI data connection: LiveData
 
+## Download
+
+APK Downloads: https://github.com/muzafferus/Crypto-Tracker-App/releases
 
 License
 --------
